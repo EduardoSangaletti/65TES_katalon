@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Comentrios (0)</name>
+   <tag></tag>
+   <elementGuidId>11148086-47c9-4764-8bbf-8b168af03b65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='comment-link-text-66088dcf5c680']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#comment-link-text-66088dcf5c680</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Comentários Comentários (0)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26610bec-4e74-4110-a248-1992821adfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>comment-link-text-66088dcf5c680</value>
+      <webElementGuid>e0ce610a-85b6-4a3a-a0fb-26ce0569620f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Comentários (0)</value>
+      <webElementGuid>5d98db89-763c-4bf4-8316-448229b6b4f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comment-link-text-66088dcf5c680&quot;)</value>
+      <webElementGuid>0308963e-7b9d-4366-b604-44b0f8ed5546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='comment-link-text-66088dcf5c680']</value>
+      <webElementGuid>e238875d-7ec5-4d7c-81d3-5e05d236ce92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='comment-link-66088dcf5c680']/span</value>
+      <webElementGuid>1a4c8bbe-c382-41a1-93ed-59599c3f0cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar comentários'])[1]/following::span[1]</value>
+      <webElementGuid>7bad7980-d519-4fc6-b4e5-8090d1fb9a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='___content___'])[1]/following::span[1]</value>
+      <webElementGuid>8f5806e4-917e-41da-94f5-1bb1f3f18686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comentário'])[1]/preceding::span[1]</value>
+      <webElementGuid>750de2bb-4db9-412b-8356-fee6a10c1945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::span[1]</value>
+      <webElementGuid>cddc5b89-6309-4dcb-84e3-32ea30aa4b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Comentários (0)']/parent::*</value>
+      <webElementGuid>dd424260-3e99-4d73-8ab1-bf580d7a7ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>d5508fba-ad0a-4e91-b6b1-7042d6979642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'comment-link-text-66088dcf5c680' and (text() = 'Comentários (0)' or . = 'Comentários (0)')]</value>
+      <webElementGuid>91de9547-f938-4c8a-aca1-b6d477e88b7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,54 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CT - Record Web - Moodle Msg/Page_Painel  UDESC.edu/div_Categoria do curso                     _50ba62",
+      "brokenLocator": "//div[@id\u003d\u0027recentlyaccessedcourses-view-66088dc37f01466088dc37f0161\u0027]/div[2]/div[2]/div/a/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cursos acessados recentemente\u0027])[1]/following::div[28]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CT - Record Web - Moodle Msg/Page_Painel  UDESC.edu/div_Categoria do curso                     _50ba62_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CT - Record Web - Moodle Msg/Page_20241_CEAVI_ESO06 - 20241_65TES Plano _486f68/span_Comentrios (0)",
+      "brokenLocator": "//span[@id\u003d\u0027comment-link-text-66088dcf5c680\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mostrar comentários\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CT - Record Web - Moodle Msg/Page_20241_CEAVI_ESO06 - 20241_65TES Plano _486f68/span_Comentrios (0)_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CT - Record Web - Moodle Msg/Page_20241_CEAVI_ESO06 - 20241_65TES Plano _486f68/textarea_Comentrio_content",
+      "brokenLocator": "//textarea[@id\u003d\u0027dlg-content-66088dcf5c680\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//textarea",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CT - Record Web - Moodle Msg/Page_20241_CEAVI_ESO06 - 20241_65TES Plano _486f68/textarea_Comentrio_content_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CT - Record Web - Moodle Msg/Page_20241_CEAVI_ESO06 - 20241_65TES Plano _486f68/a_Salvar comentrio",
+      "brokenLocator": "//a[@id\u003d\u0027comment-action-post-66088dcf5c680\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Salvar comentário\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CT - Record Web - Moodle Msg/Page_20241_CEAVI_ESO06 - 20241_65TES Plano _486f68/a_Salvar comentrio_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Painel  UDESC.edu/div_Categoria do curso                     _50ba62",
+      "brokenLocator": "//div[@id\u003d\u0027recentlyaccessedcourses-view-6609876ac93896609876ac938b1\u0027]/div[2]/div[2]/div/a/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cursos acessados recentemente\u0027])[1]/following::div[28]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Painel  UDESC.edu/div_Categoria do curso                     _50ba62_neighbor.png"
+    }
+  ]
+}
